@@ -6,3 +6,18 @@
 .header {
   text-align: center;
 }
+
+.header nav {
+  background-color: black;
+  line-height: 50px;
+  font-size: 20px;
+}
+.header a {
+  text-decoration: none;
+  padding: 5px;
+  color: white;
+}
+
+.header a:hover {
+  background-color: grey;
+}
