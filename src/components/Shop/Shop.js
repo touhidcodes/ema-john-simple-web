@@ -9,7 +9,7 @@ const Shop = () => {
         console.log(data);
       });
   }, []);
-  return <div></div>;
+  return <div>This is shop</div>;
 };
 
 export default Shop;
